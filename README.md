@@ -38,9 +38,9 @@
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![wordpress-childhood](https://user-images.githubusercontent.com/86494748/233854559-f3633c0e-c2af-4dd5-8773-f4c3dd235cb5.jpg)](http://childhood.ia-stepanov.ru/)
+[![wordpress-childhood](https://user-images.githubusercontent.com/86494748/233854559-f3633c0e-c2af-4dd5-8773-f4c3dd235cb5.jpg)](https://childhood.ia-stepanov.ru/)
 
 </details>
 
 ## Ссылка на сайт:
-http://childhood.ia-stepanov.ru/
+https://childhood.ia-stepanov.ru/
