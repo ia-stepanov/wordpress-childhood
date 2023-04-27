@@ -1,4 +1,4 @@
-# Мир дества
+# Мир детства
 ### ***Учебный проект из курса [Посадка верстки и создание тем на CMS WordPress](https://www.udemy.com/course/cms-wordpress/)***  
 **Автор курса: [Иван Петриченко](https://www.udemy.com/user/yan-kovalenko-2/)**
 
