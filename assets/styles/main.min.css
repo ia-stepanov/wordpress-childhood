@@ -1,3 +1,31 @@
 .grecaptcha-badge {
   display: none !important;
 }
+
+.toys .subtitle {
+  margin-bottom: 20px;
+}
+
+.wp-block-image figcaption {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+body > div:first-of-type {
+  flex-grow: 1;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
+.subtitle a {
+  text-decoration: none;
+  color: #3f3689;
+  cursor: pointer;
+}
