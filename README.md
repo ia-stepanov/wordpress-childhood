@@ -39,13 +39,9 @@
 <details><summary><b>Развернуть</b></summary>
 
 [![wordpress-childhood](https://github.com/ia-stepanov/ia-stepanov/assets/86494748/c4ff9706-636c-47b8-898f-b9062031b76a)](https://childhood.ia-stepanov.ru/)
-
 [![wordpress-childhood](https://github.com/ia-stepanov/ia-stepanov/assets/86494748/b4533470-f4f5-4a25-b242-bc0cba9194f6)](https://childhood.ia-stepanov.ru/igrushki/)
-
 [![wordpress-childhood](https://github.com/ia-stepanov/ia-stepanov/assets/86494748/287dcb15-fd55-43b7-82be-4c26d3a4838e)](https://childhood.ia-stepanov.ru/nasha-komanda/)
-
 [![wordpress-childhood](https://github.com/ia-stepanov/ia-stepanov/assets/86494748/6ece1c1d-9b3b-4078-837b-8693bef5474f)](https://childhood.ia-stepanov.ru/nasha-istoriya/)
-
 [![wordpress-childhood](https://github.com/ia-stepanov/ia-stepanov/assets/86494748/8a80613d-bfd1-40fb-9ee3-5bb858d43c1f)](https://childhood.ia-stepanov.ru/kontakty-i-otzyvy/)
 
 </details>
